@@ -1,0 +1,6 @@
+framework module Pods_googleAPIPlaces {
+  umbrella header "Pods-googleAPIPlaces-umbrella.h"
+
+  export *
+  module * { export * }
+}
